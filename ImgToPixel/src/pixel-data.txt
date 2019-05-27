@@ -1,0 +1,5328 @@
+; colors: 255 255 255
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 0
+; colors: 255 255 255
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 1
+; colors: 255 255 255
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 2
+; colors: 253 253 253
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 3
+; colors: 217 217 217
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 4
+; colors: 146 146 146
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 5
+; colors: 97 97 97
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 6
+; colors: 60 60 60
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 28
+; colors: 49 49 49
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 29
+; colors: 90 90 90
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 30
+; colors: 138 138 138
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 31
+; colors: 199 199 199
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 32
+; colors: 247 247 247
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 33
+; colors: 255 255 255
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 34
+; colors: 255 255 255
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 35
+; colors: 255 255 255
+mov dword ptr[esi], 0
+mov dword ptr[esi+4], 36
+; colors: 255 255 255
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 0
+; colors: 255 255 255
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 1
+; colors: 213 213 213
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 2
+; colors: 99 99 99
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 32
+; colors: 67 67 67
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 33
+; colors: 178 178 178
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 34
+; colors: 252 252 252
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 35
+; colors: 255 255 255
+mov dword ptr[esi], 1
+mov dword ptr[esi+4], 36
+; colors: 255 255 255
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 0
+; colors: 201 201 201
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 1
+; colors: 67 67 67
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 33
+; colors: 44 44 44
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 34
+; colors: 153 153 153
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 35
+; colors: 252 252 252
+mov dword ptr[esi], 2
+mov dword ptr[esi+4], 36
+; colors: 240 240 240
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 0
+; colors: 107 107 107
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 34
+; colors: 60 60 60
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 35
+; colors: 204 204 204
+mov dword ptr[esi], 3
+mov dword ptr[esi+4], 36
+; colors: 197 197 197
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 0
+; colors: 44 44 44
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 9
+; colors: 60 60 60
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 10
+; colors: 146 146 146
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 11
+; colors: 224 224 224
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 12
+; colors: 250 250 250
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 22
+; colors: 253 253 253
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 23
+; colors: 237 237 237
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 24
+; colors: 194 194 194
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 25
+; colors: 115 115 115
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 26
+; colors: 44 44 44
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 35
+; colors: 131 131 131
+mov dword ptr[esi], 4
+mov dword ptr[esi+4], 36
+; colors: 150 150 150
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 8
+; colors: 98 98 98
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 9
+; colors: 228 228 228
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 26
+; colors: 217 217 217
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 27
+; colors: 81 81 81
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 35
+; colors: 95 95 95
+mov dword ptr[esi], 5
+mov dword ptr[esi+4], 36
+; colors: 146 146 146
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 7
+; colors: 74 74 74
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 8
+; colors: 219 219 219
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 27
+; colors: 184 184 184
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 35
+; colors: 77 77 77
+mov dword ptr[esi], 6
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 7
+; colors: 156 156 156
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 8
+; colors: 254 254 254
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 27
+; colors: 204 204 204
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 7
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 6
+; colors: 44 44 44
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 7
+; colors: 204 204 204
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 27
+; colors: 184 184 184
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 8
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 6
+; colors: 74 74 74
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 7
+; colors: 221 221 221
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 26
+; colors: 243 243 243
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 27
+; colors: 115 115 115
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 9
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 25
+; colors: 252 252 252
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 26
+; colors: 151 151 151
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 10
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 24
+; colors: 253 253 253
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 25
+; colors: 175 175 175
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 26
+; colors: 44 44 44
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 11
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 24
+; colors: 194 194 194
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 25
+; colors: 44 44 44
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 12
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 23
+; colors: 219 219 219
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 24
+; colors: 81 81 81
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 13
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 22
+; colors: 235 235 235
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 23
+; colors: 102 102 102
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 14
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 21
+; colors: 245 245 245
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 22
+; colors: 125 125 125
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 25
+; colors: 49 49 49
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 26
+; colors: 153 153 153
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 27
+; colors: 214 214 214
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 28
+; colors: 98 98 98
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 15
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 20
+; colors: 254 254 254
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 21
+; colors: 167 167 167
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 24
+; colors: 74 74 74
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 25
+; colors: 204 204 204
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 26
+; colors: 254 254 254
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 16
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 20
+; colors: 200 200 200
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 21
+; colors: 60 60 60
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 23
+; colors: 81 81 81
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 24
+; colors: 217 217 217
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 17
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 19
+; colors: 219 219 219
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 20
+; colors: 81 81 81
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 22
+; colors: 60 60 60
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 23
+; colors: 200 200 200
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 18
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 18
+; colors: 235 235 235
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 19
+; colors: 102 102 102
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 22
+; colors: 151 151 151
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 23
+; colors: 252 252 252
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 19
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 17
+; colors: 252 252 252
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 18
+; colors: 139 139 139
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 21
+; colors: 125 125 125
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 22
+; colors: 245 245 245
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 20
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 16
+; colors: 254 254 254
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 17
+; colors: 177 177 177
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 18
+; colors: 44 44 44
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 20
+; colors: 81 81 81
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 21
+; colors: 219 219 219
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 21
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 16
+; colors: 200 200 200
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 17
+; colors: 60 60 60
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 19
+; colors: 60 60 60
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 20
+; colors: 200 200 200
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 22
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 15
+; colors: 219 219 219
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 16
+; colors: 81 81 81
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 19
+; colors: 151 151 151
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 20
+; colors: 252 252 252
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 23
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 14
+; colors: 243 243 243
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 15
+; colors: 115 115 115
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 18
+; colors: 121 121 121
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 19
+; colors: 245 245 245
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 24
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 13
+; colors: 252 252 252
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 14
+; colors: 151 151 151
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 17
+; colors: 81 81 81
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 18
+; colors: 219 219 219
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 25
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 12
+; colors: 254 254 254
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 13
+; colors: 177 177 177
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 14
+; colors: 44 44 44
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 16
+; colors: 55 55 55
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 17
+; colors: 198 198 198
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 26
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 12
+; colors: 200 200 200
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 13
+; colors: 60 60 60
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 16
+; colors: 151 151 151
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 17
+; colors: 252 252 252
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 27
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 11
+; colors: 231 231 231
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 12
+; colors: 90 90 90
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 15
+; colors: 121 121 121
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 16
+; colors: 245 245 245
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 28
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 10
+; colors: 245 245 245
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 11
+; colors: 125 125 125
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 14
+; colors: 81 81 81
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 15
+; colors: 219 219 219
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 29
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 6
+; colors: 95 95 95
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 9
+; colors: 234 234 234
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 10
+; colors: 114 114 114
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 13
+; colors: 44 44 44
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 14
+; colors: 194 194 194
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 30
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 6
+; colors: 92 92 92
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 7
+; colors: 236 236 236
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 8
+; colors: 210 210 210
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 9
+; colors: 84 84 84
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 13
+; colors: 151 151 151
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 14
+; colors: 252 252 252
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 31
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 7
+; colors: 65 65 65
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 12
+; colors: 115 115 115
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 13
+; colors: 243 243 243
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 32
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 11
+; colors: 81 81 81
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 12
+; colors: 219 219 219
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 33
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 10
+; colors: 44 44 44
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 11
+; colors: 194 194 194
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 34
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 10
+; colors: 151 151 151
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 11
+; colors: 252 252 252
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 35
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 9
+; colors: 125 125 125
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 10
+; colors: 245 245 245
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 36
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 8
+; colors: 114 114 114
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 9
+; colors: 237 237 237
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 27
+; colors: 247 247 247
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 28
+; colors: 123 123 123
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 37
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 7
+; colors: 84 84 84
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 8
+; colors: 227 227 227
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 27
+; colors: 246 246 246
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 28
+; colors: 120 120 120
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 38
+mov dword ptr[esi+4], 36
+; colors: 123 123 123
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 6
+; colors: 44 44 44
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 7
+; colors: 186 186 186
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 27
+; colors: 232 232 232
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 28
+; colors: 89 89 89
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 39
+mov dword ptr[esi+4], 36
+; colors: 131 131 131
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 6
+; colors: 96 96 96
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 7
+; colors: 238 238 238
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 26
+; colors: 255 255 255
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 27
+; colors: 184 184 184
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 35
+; colors: 74 74 74
+mov dword ptr[esi], 40
+mov dword ptr[esi+4], 36
+; colors: 146 146 146
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 6
+; colors: 120 120 120
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 7
+; colors: 246 246 246
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 25
+; colors: 255 255 255
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 26
+; colors: 234 234 234
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 27
+; colors: 98 98 98
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 35
+; colors: 89 89 89
+mov dword ptr[esi], 41
+mov dword ptr[esi+4], 36
+; colors: 165 165 165
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 0
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 6
+; colors: 60 60 60
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 7
+; colors: 200 200 200
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 8
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 9
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 10
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 11
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 22
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 23
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 24
+; colors: 255 255 255
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 25
+; colors: 228 228 228
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 26
+; colors: 104 104 104
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 35
+; colors: 106 106 106
+mov dword ptr[esi], 42
+mov dword ptr[esi+4], 36
+; colors: 208 208 208
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 0
+; colors: 55 55 55
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 7
+; colors: 49 49 49
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 8
+; colors: 145 145 145
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 9
+; colors: 217 217 217
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 10
+; colors: 242 242 242
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 11
+; colors: 254 254 254
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 12
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 13
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 14
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 15
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 16
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 17
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 18
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 19
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 20
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 21
+; colors: 255 255 255
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 22
+; colors: 247 247 247
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 23
+; colors: 217 217 217
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 24
+; colors: 145 145 145
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 25
+; colors: 49 49 49
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 34
+; colors: 33 33 33
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 35
+; colors: 156 156 156
+mov dword ptr[esi], 43
+mov dword ptr[esi+4], 36
+; colors: 247 247 247
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 0
+; colors: 123 123 123
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 1
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 33
+; colors: 33 33 33
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 34
+; colors: 74 74 74
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 35
+; colors: 221 221 221
+mov dword ptr[esi], 44
+mov dword ptr[esi+4], 36
+; colors: 255 255 255
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 0
+; colors: 219 219 219
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 1
+; colors: 81 81 81
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 2
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 32
+; colors: 33 33 33
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 33
+; colors: 44 44 44
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 34
+; colors: 177 177 177
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 35
+; colors: 254 254 254
+mov dword ptr[esi], 45
+mov dword ptr[esi+4], 36
+; colors: 255 255 255
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 0
+; colors: 255 255 255
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 1
+; colors: 230 230 230
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 2
+; colors: 115 115 115
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 3
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 4
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 5
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 6
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 28
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 29
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 30
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 31
+; colors: 33 33 33
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 32
+; colors: 79 79 79
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 33
+; colors: 198 198 198
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 34
+; colors: 254 254 254
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 35
+; colors: 255 255 255
+mov dword ptr[esi], 46
+mov dword ptr[esi+4], 36
+; colors: 255 255 255
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 0
+; colors: 255 255 255
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 1
+; colors: 255 255 255
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 2
+; colors: 253 253 253
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 3
+; colors: 219 219 219
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 4
+; colors: 157 157 157
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 5
+; colors: 103 103 103
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 6
+; colors: 67 67 67
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 7
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 8
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 9
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 10
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 11
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 12
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 13
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 14
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 15
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 16
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 17
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 18
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 19
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 20
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 21
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 22
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 23
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 24
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 25
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 26
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 27
+; colors: 33 33 33
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 28
+; colors: 49 49 49
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 29
+; colors: 95 95 95
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 30
+; colors: 146 146 146
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 31
+; colors: 209 209 209
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 32
+; colors: 252 252 252
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 33
+; colors: 255 255 255
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 34
+; colors: 255 255 255
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 35
+; colors: 255 255 255
+mov dword ptr[esi], 47
+mov dword ptr[esi+4], 36
